@@ -1,4 +1,4 @@
-***** Privacy Policy *****
+# Privacy Policy
 
 Thank you for playing Bim game!
 
@@ -13,7 +13,7 @@ This App uses following device hardware features
 Some play modes like Spaceship and Bubbles read the device physical orientation information from the device sensors, used to rotate the game content in the actual device orientation, but none of that information is persistently stored or shared outside the device.
 Gadget mode includes a simple recorder that uses the device microphone to record short sound clips and play them back to the user through the device’s audio output. The recordings are only stored temporarily in the app’s local cache, only one clip at a time, only used in the way described here, and never shared outside the device by this App. The cached recording is deleted when the app is closed.
 
-Contact us
+## Contact us
 
 If you have questions about this Privacy Policy, data protection, or if you have any requests for resolving issues with your personal data, please send us a message to the following email address:
 
